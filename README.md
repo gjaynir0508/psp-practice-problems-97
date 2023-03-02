@@ -1,6 +1,10 @@
 # List of Practice Problems
 
+## Link to Colab File with All 97 Questions
+
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/all_in_one-1-97.ipynb)
+
+## About
 
 This repository consists of various Jupyter notebooks with Problem Solving Practice Questions and their Solutions.
 
@@ -25,3 +29,4 @@ There are 97 Questions in total which are divided into various categrories.
 | numpy | 88 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/libraries-16-18%2C88.ipynb) |
 | statistics | 18 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/libraries-16-18%2C88.ipynb) |
 | random | 17 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/libraries-16-18%2C88.ipynb) |
+| Lab Internal Practice | 28 Questions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/lab_internal_practice_28Q.ipynb) |
