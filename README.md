@@ -12,6 +12,7 @@ There are 97 Questions in total which are divided into various categrories.
 
 | Topic | Q. No.s | Links to Colab files|
 |---|---|---|
+| Lab Internal Practice | 28 Questions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/lab_internal_practice_28Q.ipynb) |
 | Numeric Datatypes and Booleans | 1 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/numeric_datatypes_and_bool-1.ipynb) |
 | Strings | 2, 14, 58, 61, 67, 80, 94 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/strings-2%2C14%2C58%2C61%2C67%2C80%2C94.ipynb) |
 | Operators – Types, Precedence and Associativity | 3-10, 60 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/operators_precedence_and_associativity-3-10%2C60.ipynb) |
@@ -29,4 +30,3 @@ There are 97 Questions in total which are divided into various categrories.
 | numpy | 88 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/libraries-16-18%2C88.ipynb) |
 | statistics | 18 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/libraries-16-18%2C88.ipynb) |
 | random | 17 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/libraries-16-18%2C88.ipynb) |
-| Lab Internal Practice | 28 Questions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gjaynir0508/psp-practice-problems-97/blob/main/lab_internal_practice_28Q.ipynb) |
